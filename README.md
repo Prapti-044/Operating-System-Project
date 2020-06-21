@@ -12,12 +12,6 @@ An operating system (OS) is system software that manages computer hardware, soft
 
 Start from here: https://github.com/Prapti-044/Operating-System-Project
 
-Install pre-requisite dependencies
-
-### Pre-requisites
-
-Oracle VM Virtual Box
-
 ## Author
 
 Shadmaan Hye Prapti
